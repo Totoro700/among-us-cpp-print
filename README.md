@@ -18,3 +18,5 @@ prints string using amongus language but with \n (line break)
 # among us lang docs
 
 [docs](https://esolangs.org/wiki/Among_Us)
+
+### no exe build so shush
