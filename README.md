@@ -3,7 +3,7 @@ C++ code to print text with the amongus language
 
 
 # headers to include
-"amongus.h" (/src/amongus.h)
+"amongus.h" (/src/amongus.h) or [header file link (original creator)](https://github.com/toc8730/amonguscpp)
 
 that's it
 
